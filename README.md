@@ -1,4 +1,4 @@
-# Estágio DEV Target Sistemas - São Paulo
+# Estágio DEV Target Sistemas - Ribeirão Preto
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/lumedeirosn/estagio-dev-target-sistemas-ribeirao-preto/blob/main/LICENSE)
 
 # Sobre o Projeto:
