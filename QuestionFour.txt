@@ -1,0 +1,20 @@
+Distância = 100km
+Vm Carro = 110km/h
+Vm Caminhão = 80km/h
+
+Tempo gasto pelo Carro para chegar a Franca:
+	- Tempo = Distância / Vm
+	- Tempo = 100 / 110 ~= 0.909 horas
+	- 1h = 60 minutos
+	- 0.909h = 54.545 minutos
+	* O Carro leva aproximadamente 54m e 30s para chegar a Franca.
+
+Tempo gasto pelo Caminhão para chegar a Ribeirão Preto:
+	- Tempo = Distância / Vm
+	- Tempo = 100 / 80 ~= 1.25 horas
+	- 1h = 60 minutos
+	- 1.25 = 75 minutos
+	* O Carro leva aproximadamente 85 minutos para chegar a Franca.
+
+Tendo em vista que o cruzamento entre o Caminhão e o Carro irá acontecer obrigatoriamente, uma vez que o Caminhão não leva mais que o dobro de tempo que o Carro leva para chegar ao seu destino é possível resolver o problema sem a utilização de equações horárias. 
+Logo, mediante a lógica e devido à comprovação de que irá ocorrer o cruzamento, quando os dois se cruzarem, ambos estaram a mesma distância da cidade de Ribeirão Preto.
